@@ -1,0 +1,6 @@
+change password var to yyyymmddyyyymmdd
+first date is start, and last date is end
+the password can use date between first date to last date
+
+change password variable and run code
+printed char is the password
